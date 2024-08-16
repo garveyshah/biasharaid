@@ -1,0 +1,6 @@
+# ignore build files
+/tmp
+*.out
+go.mod
+*.log
+.air.toml
